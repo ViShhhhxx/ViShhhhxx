@@ -1,11 +1,11 @@
-# Hi there, I'm Vishesh! 👋 
+# Hi there, I'm Vishesh Jain! 👋 
 
 
-## I'm a Game Developer and a Learner
+## I'm a Game Developer🎮....Interesting I know!
 
-- 🔭 Looking for new things to learn everyday
-- 🌱 I’m currently learning Unity3D
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 Looking for new things to learn everyday.
+- 🌱 I’m currently learning Unity3D.
+- 👯 I’m looking to collaborate in any kind of game development project.
 - 🥅 2023 Goals: Launch my first mobile Game
 - ⚡ Fun fact: Game Addiction can become a great Profession
 
