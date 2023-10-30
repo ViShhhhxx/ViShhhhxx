@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC7_usxXxetRrOiR0KG__vWg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC7_usxXxetRrOiR0KG__vWg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/247Vishesh#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/247Vishesh#gh-dark-mode-only)
