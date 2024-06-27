@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishhhhxx&label=Profile%20views&color=0e75b6&style=flat" alt="vishhhhxx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishhhhxx" alt="vishhhhxx" /></a> </p>
-
 - 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **Ask me about creating immersive AR/VR experiences, engaging web interfaces, and game development using Unity.**
