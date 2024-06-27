@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 💬 Ask me about **Ask me about creating immersive AR/VR experiences, engaging web interfaces, and game development using Unity.**
+- 💬 Ask me about **creating immersive AR/VR experiences, engaging web interfaces, and game development using Unity.**
 
 - 📫 How to reach me **visheshjain256@gmail.com**
 
