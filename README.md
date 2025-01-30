@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishesh-247" alt="vishesh-247" /></a> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🔭 I’m currently working on **AI Web Apps**
 
 - 🌱 I’m currently learning **AI models and React Expo**
 
-- 👯 I’m looking to collaborate on **AI-driven apps and web innovations**
+- 👯 I’m looking to collaborate on **Interesting AI-driven apps and web innovations**
 
 - 💬 Ask me about **AI, Web Apps, Games**
 
